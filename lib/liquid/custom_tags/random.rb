@@ -1,4 +1,3 @@
-
 module Liquid
 
   #Select random block separated by -OR-
